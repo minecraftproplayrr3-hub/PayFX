@@ -1,0 +1,7 @@
+name: PayFX
+version: '1.0'
+main: com.rxglory.payfx.PayFX
+api-version: '1.21'
+depend: [Vault]
+softdepend: [Essentials]
+description: Cool animations when someone receives money with /pay
